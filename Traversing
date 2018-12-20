@@ -1,0 +1,5 @@
+closest() selects the first element that matches the selector, up from the DOM tree. Begins from the current element and travels up.
+
+parent() selects one element up the DOM tree.
+
+parents() method is similar to parent() but selects all the matching elements up the DOM tree. Begins from the parent element and travels up.
